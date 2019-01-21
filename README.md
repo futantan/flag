@@ -21,3 +21,4 @@
 
 ### 🖌 每周一篇博客
 - [x] [2019，始。](http://www.futantan.com/2019/01/01/2019-begins/)
+- [x] [compose](http://www.futantan.com/2019/01/20/fp-compose/)
