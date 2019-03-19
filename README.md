@@ -25,6 +25,8 @@
 - [x] 算法图解
 - [x] TDD by Example
 - [x] JavaScript 异步编程
+- [x] 敏捷革命
+- [x] JavaScript 忍者秘籍
 
 ### 🖌 每周一篇博客
 - [x] [2019，始。](http://www.futantan.com/2019/01/01/2019-begins/)
